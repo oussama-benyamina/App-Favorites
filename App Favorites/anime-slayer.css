@@ -1,0 +1,25 @@
+/* anime-slayer.css */
+.application-header {
+    background-color: #9b59b6;
+}
+
+.application-description {
+    background-color: #ecf0f1;
+    padding: 20px;
+}
+
+.application-screenshot {
+    border: 2px solid #9b59b6;
+    margin: 10px;
+}
+
+.application-download .button {
+    background-color: #9b59b6;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.application-social a {
+    color: #9b59b6;
+}
